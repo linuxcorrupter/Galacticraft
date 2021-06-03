@@ -6,6 +6,8 @@
 
 # Galacticraft 5
 The classic Minecraft space mod, rewritten from the ground up for modern versions of the game.
+Sorry GC devs I forked it!
+I messed with the cape api so Don't pull request
 
 ## Addon Development
 For information regarding addon development please see the [GalacticraftAPI](https://github.com/TeamGalacticraft/GalacticraftAPI) repository.
